@@ -1,0 +1,20 @@
+{
+  "name": "decky-poe-price-engine",
+  "private": true,
+  "type": "module",
+  "description": "Awakened PoE Trade's price-check engine (parser, filters, trade queries) bundled for Node, no UI",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "@sindresorhus/fnv1a": "^3.0.0",
+    "dot-prop": "9.x.x",
+    "luxon": "3.x.x",
+    "neverthrow": "^8.0.0",
+    "object-hash": "^3.0.0",
+    "@vue/reactivity": "3.2.37"
+  },
+  "devDependencies": {
+    "esbuild": "0.24.2"
+  }
+}

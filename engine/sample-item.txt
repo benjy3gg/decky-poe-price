@@ -1,0 +1,30 @@
+Item Class: Helmets
+Rarity: Rare
+Dire Dome
+Prophet Crown
+--------
+Quality: +3% (augmented)
+Armour: 210 (augmented)
+Energy Shield: 70 (augmented)
+--------
+Requirements:
+Level: 63
+Str: 85
+Int: 62
+--------
+Sockets: B-B-R-G
+--------
+Item Level: 82
+--------
+{ Prefix Modifier "Prime" (Tier: 3) — Life }
++104(100-109) to maximum Life
+{ Prefix Modifier "Wraith's" (Tier: 6) — Mana }
++63(60-64) to maximum Mana
+{ Suffix Modifier "of the Pack" — Minion, Gem }
++1 to Level of all Minion Skill Gems
+{ Suffix Modifier "of the Walrus" (Tier: 6) — Elemental, Cold, Resistance }
++16(12-17)% to Cold Resistance
+{ Suffix Modifier "of the Furnace" (Tier: 4) — Elemental, Fire, Resistance }
++27(24-29)% to Fire Resistance
+{ Suffix Modifier "of Plunder" (Tier: 5) — Drop }
+11(8-11)% increased Rarity of Items found

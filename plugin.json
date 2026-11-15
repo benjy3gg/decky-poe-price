@@ -1,0 +1,15 @@
+{
+  "name": "PoE Price Check",
+  "author": "benjy3gg",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": [
+      "path of exile",
+      "trade",
+      "price check"
+    ],
+    "description": "Awakened PoE Trade-style price checking for Path of Exile in Game Mode: press a back button bound to Ctrl+Alt+C over an item and a price-check menu opens over the game.",
+    "image": ""
+  }
+}
